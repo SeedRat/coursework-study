@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程作业与学习资料"
+  short_description: "完成教学网站作业、验证并提交结果，按反馈修正重做，生成对应的 PDF 学习资料"
+  default_prompt: "使用 $coursework-study 完成我指定的课程作业，核实提交结果后生成 PDF 学习资料。"
